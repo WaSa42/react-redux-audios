@@ -1,0 +1,39 @@
+{
+  "name": "react-redux-audios",
+  "version": "1.0.0",
+  "description": "Handle audio components with react & redux",
+  "main": "index.js",
+  "devDependencies": {
+    "redux-logger": "^2.7.4",
+    "react-scripts": "0.8.5"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^4.4.6",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.1.0",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaSa42/react-redux-audios.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "audio"
+  ],
+  "author": "Nicolas Rouvière",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaSa42/react-redux-audios/issues"
+  },
+  "homepage": "https://github.com/WaSa42/react-redux-audios#readme"
+}
